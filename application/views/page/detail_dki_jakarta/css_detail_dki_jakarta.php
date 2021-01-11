@@ -1,0 +1,1 @@
+<link rel="stylesheet" media="screen, print" href="<?php echo base_url("assets/dist/") ?>css/statistics/chartjs/chartjs.css">
